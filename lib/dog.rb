@@ -5,3 +5,6 @@
 # :breeder
 # :AKC number
 # :breed class
+class Dog
+
+end
