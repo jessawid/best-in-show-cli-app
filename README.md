@@ -1,5 +1,5 @@
 # Best in Show
-This CLI app provides information on the top 10 dogs in each category and over all as determined by the Westminster Kennel Club.
+This CLI app provides information on the top 4 dogs in each group as determined by the Westminster Kennel Club.
 
 ## Installation
 ## Usage
